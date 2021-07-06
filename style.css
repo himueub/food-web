@@ -12,12 +12,10 @@ h1{
 .blue{
     color: blue;
 }
-h2{
+.container{
+    display: inline-flex;
+}
+.heading{
     font-size: 35px;
     margin-left: 80px;
-
-}
-
-.png{
-    position: absolute;
 }
