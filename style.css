@@ -1,0 +1,12 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    margin-left: 600px;
+    background-color: lightskyblue;
+    text-align: center;
+    width: 75px;
+}
