@@ -2,11 +2,22 @@ body{
     font-family: 'Bebas Neue', cursive;
 }
 h1{
-    font-size: 60px;
+    font-size: 80px;
+    text-align: center;
+    background-image: url(/bg.png);
+}
+.orange{
+    color: orange;
+}
+.blue{
+    color: blue;
 }
 h2{
-    margin-left: 600px;
-    background-color: lightskyblue;
-    text-align: center;
-    width: 75px;
+    font-size: 35px;
+    margin-left: 80px;
+
+}
+
+.png{
+    position: absolute;
 }
